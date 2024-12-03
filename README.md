@@ -10,3 +10,5 @@
                                             ——CRC32-Tools Tool V1.0
 
 ```
+## demo
+<img width="694" alt="demo-m" src="https://github.com/user-attachments/assets/5a96e99b-2295-4f1f-9644-7382d4d67693">
